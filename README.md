@@ -1,0 +1,1 @@
+# otus_qa_python_linux_whit_python
